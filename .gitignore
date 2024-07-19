@@ -1,11 +1,3 @@
 /bin
 /build
 compile_commands.json
-/src/auton-function.cpp
-/src/basic-functions.cpp
-/src/calc.cpp
-/src/main.cpp
-/src/my-timer.cpp
-/src/PID.cpp
-/src/robot-config.cpp
-/src/sensors.cpp

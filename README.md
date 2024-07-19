@@ -38,4 +38,4 @@ Thanks so much for the teachers and my teammates, [LYBQinc](https://github.com/L
 
 ## Build
 
-解压zip文件，在解压后的文件夹中，打开Visual Studio Code，打开文件夹，然后打开main.cpp，编译即可。密码为最终得分
+Unzip the files in the zip to the directory where the zip is located, then open Visual Studio Code in the root directory of the project, then open main.cpp and compile it. The password is the final score
