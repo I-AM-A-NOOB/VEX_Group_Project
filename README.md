@@ -4,7 +4,7 @@
 
 Created by [LYBQinc](https://github.com/LYBQinc), [gaohaochen](https://github.com/gaohaochen), [I-AM-A-NOOB](https://github.com/I-AM-A-NOOB)
 
-This project was created in the summer camp of SJTU and just for memory. The headers and the framework of the project are from teachers in SJTU, so I won't open its source code.
+This project was created in the summer camp of SJTU and just for memory. The headers and the framework of the project are from teachers in SJTU.
 
 ## Project Target
 
