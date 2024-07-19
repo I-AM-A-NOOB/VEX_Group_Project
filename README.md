@@ -27,7 +27,6 @@ The project is to design a path planning algorithm for a robot that starts from 
 
 ## Robot
 
-The robot is a VEX robot, which is a small robot that can be controlled by a controller. It has a motor, a sensor, and a camera. The motor can rotate, and the sensor can detect the color of the ball. The camera can detect the position of the ball.
 the 3D model of the robot is at [Here](https://github.com/I-AM-A-NOOB/VEX-Group-Project/tree/main/resources/KiwiDrive_rev2.exe).
 
 ## Feelings
